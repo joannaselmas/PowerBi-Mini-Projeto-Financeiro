@@ -1,5 +1,4 @@
 # PowerBi-Mini-Projeto-Financeiro
-Dashboard de Análise Financeira com Power BI
 Este projeto consiste em um dashboard interativo desenvolvido no Power BI para análise financeira, com foco em demonstrar a distribuição de receitas e despesas ao longo de três anos, além de segmentações baseadas em valor médio.
 
 🎯 Objetivo
